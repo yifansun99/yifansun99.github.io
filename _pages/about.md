@@ -31,7 +31,7 @@ Data-centric AI, Reliable ML, Trustworthy NLP
 
 Preprints:
 - DF-OOB: A Joint Valuation Framework for Interpreting Data Values, **Yifan Sun**, Bianca Dumitrascu, Yongchan Kwon, preprint
-- [MMA-RNN: A Multi-level Multi-task Attention-based Recurrent Neural Network for Discrimination and Localization of Atrial Fibrillation](https://arxiv.org/abs/2302.03731), **Yifan Sun**, Jingyan Shen, Yunfan Jiang, Zhaohui Huang, Minsheng Hao, Xuegong Zhang, in review (submitted to Biomedical Signal Processing and Control)
+- [MMA-RNN: A Multi-level Multi-task Attention-based Recurrent Neural Network for Discrimination and Localization of Atrial Fibrillation](https://arxiv.org/abs/2302.03731), **Yifan Sun**$^{\dagger}$, Jingyan Shen$^{\dagger}$, Yunfan Jiang, Zhaohui Huang, Minsheng Hao, Xuegong Zhang, in review (submitted to Biomedical Signal Processing and Control)
 
 Publications:
 - Get More for Less: Principled Data Selection for Warming Up Fine-Tuning in LLMs], Feiyang Kang, Hoang Anh Just$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Himanshu Jahagirdar$^{\dagger}$, Yuanzhi Zhang, Rongxing Du, Anit Kumar Sahu, Ruoxi Jia, ENLSP-III Workshop at NeurIPS 2023
