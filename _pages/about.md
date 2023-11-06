@@ -34,7 +34,7 @@ Preprints:
 - [MMA-RNN: A Multi-level Multi-task Attention-based Recurrent Neural Network for Discrimination and Localization of Atrial Fibrillation](https://arxiv.org/abs/2302.03731), **Yifan Sun**$^{\dagger}$, Jingyan Shen$^{\dagger}$, Yunfan Jiang, Zhaohui Huang, Minsheng Hao, Xuegong Zhang, in review (submitted to Biomedical Signal Processing and Control)
 
 Publications:
-- Get More for Less: Principled Data Selection for Warming Up Fine-Tuning in LLMs], Feiyang Kang, Hoang Anh Just$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Himanshu Jahagirdar$^{\dagger}$, Yuanzhi Zhang, Rongxing Du, Anit Kumar Sahu, Ruoxi Jia, ENLSP-III Workshop at NeurIPS 2023
+- Get More for Less: Principled Data Selection for Warming Up Fine-Tuning in LLMs, Feiyang Kang, Hoang Anh Just$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Himanshu Jahagirdar$^{\dagger}$, Yuanzhi Zhang, Rongxing Du, Anit Kumar Sahu, Ruoxi Jia, ENLSP-III Workshop at NeurIPS 2023
 - [SRCN3D: Sparse R-CNN 3D for Compact Convolutional Multi-View 3D Object Detection and Tracking](https://arxiv.org/abs/2206.14451), Yining Shi, Jingyan Shen, **Yifan Sun**, Yunlong Wang, Jiaxin Li, Shiqi Sun, Kun Jiang, Diange Yang, VCAD Workshop at CVPR 2023
 - [Detecting Eye Disease Using Vision Transformers Informed by Ophthalmology Resident Gaze Data](https://arinex.com.au/EMBC/pdf/full-paper_1272.pdf), Shubham Kaushal, **Yifan Sun**, Ryan Zukerman, Royce W.S. Chen, Kaveri A. Thakoor, EMBC 2023
 
