@@ -42,7 +42,7 @@ Publications:
 $^{\dagger}$ indicates these authors also contributed equally to this work.
 
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - Benjamin Miller Memorial Fellowship, Columbia University, 2023
 - National Scholarship for Graduates, Ministry of Education of China, 2022
 - Outstanding Graduate of Shanghai, Shanghai Municipal Education Commission, 2021
