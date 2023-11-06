@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 💬 Research Interests
-My current research interest includes <em>data-centric AI</em> and <em>trustworthy AI</em>. 
+Data-centric AI, Reliable ML, Trustworthy NLP 
 
 # 📝 Publications 
 
@@ -45,13 +45,20 @@ My current research interest includes <em>data-centric AI</em> and <em>trustwort
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* Benjamin Miller Memorial Fellowship, Columbia University
+- *2022* National Scholarship for Graduates, Ministry of Education of China
+- *2021* Outstanding Graduate of Shanghai, Shanghai Municipal Education Commission
+- *2021* Excellent Undergraduate Thesis Award, Fudan University
+- *2018, 2019, 2020* National Scholarship for Undergraduates, Ministry of Education of China
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Columbia University* - Master in Industrial Engineering and Operations Research (Dual master degree), Sep 2022 – Present
+- *Tsinghua University* - Master in Management Science and Engineering (Dual master degree), Sep 2021 – Present
+- *Fudan University* - Bachelor in Statistics, Sep 2017 – Jun 2021
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
