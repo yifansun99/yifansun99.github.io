@@ -17,16 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master student at Columbia University from the department of Industrial Engineering and Operations Research. I am fortunate to work closely with 
+I am currently a master student at Columbia University from the department of Industrial Engineering and Operations Research, with a dual master degree at Tsinghua University. I earned my bachelor in Statistics from Fudan University.
+
+Data is the new oil. I am working towards a comprehensive understanding and harnessing of data, to thereby design data-efficient algorithms. Besides, I am also striving to make machine learning more reliable and interpretable, particularly in the context of large language model. I am fortunate to work closely with 
   <a href='https://www.yongchanstat.com/'>Prof. Yongchan Kwon</a> and 
   <a href='https://ruoxijia.info/'>Prof. Ruoxi Jia</a>.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💬 Research Interests
+My current research interest includes <em>data-centric AI</em> and <em>trustworthy AI</em>. 
 
 # 📝 Publications 
 
