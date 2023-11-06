@@ -43,7 +43,7 @@ Data-centric AI, Reliable ML, Trustworthy NLP
 </div>
 </div>
 
-- [Detecting Eye Disease Using Vision Transformers Informed by Ophthalmology Resident Gaze Data, Shubham Kaushal, **Yifan Sun**, Ryan Zukerman, Royce W.S. Chen, Kaveri A. Thakoor](https://arinex.com.au/EMBC/pdf/full-paper_1272.pdf), EMBC 2023
+- [Detecting Eye Disease Using Vision Transformers Informed by Ophthalmology Resident Gaze Data](https://arinex.com.au/EMBC/pdf/full-paper_1272.pdf), Shubham Kaushal, **Yifan Sun**, Ryan Zukerman, Royce W.S. Chen, Kaveri A. Thakoor, EMBC 2023
 
 
 # 🎖 Honors and Awards
