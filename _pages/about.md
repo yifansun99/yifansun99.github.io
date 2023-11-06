@@ -43,26 +43,17 @@ Data-centric AI, Reliable ML, Trustworthy NLP
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Detecting Eye Disease Using Vision Transformers Informed by Ophthalmology Resident Gaze Data, Shubham Kaushal, **Yifan Sun**, Ryan Zukerman, Royce W.S. Chen, Kaveri A. Thakoor](https://arinex.com.au/EMBC/pdf/full-paper_1272.pdf), EMBC 2023
 
 
 # 🎖 Honors and Awards
-- *2023* Benjamin Miller Memorial Fellowship, Columbia University
-- *2022* National Scholarship for Graduates, Ministry of Education of China
-- *2021* Outstanding Graduate of Shanghai, Shanghai Municipal Education Commission
-- *2021* Excellent Undergraduate Thesis Award, Fudan University
-- *2018, 2019, 2020* National Scholarship for Undergraduates, Ministry of Education of China
-
+- Benjamin Miller Memorial Fellowship, Columbia University, 2023
+- National Scholarship for Graduates, Ministry of Education of China, 2022
+- Outstanding Graduate of Shanghai, Shanghai Municipal Education Commission, 2021
+- Excellent Undergraduate Thesis Award, Fudan University, 2021
+- National Scholarship for Undergraduates, Ministry of Education of China, 2018, 2019, 2020
 
 # 📖 Educations
-- *Columbia University* - Master in Industrial Engineering and Operations Research (Dual master degree), Sep 2022 – Present
-- *Tsinghua University* - Master in Management Science and Engineering (Dual master degree), Sep 2021 – Present
-- *Fudan University* - Bachelor in Statistics, Sep 2017 – Jun 2021
-
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Master in Industrial Engineering and Operations Research (Dual master degree), Columbia University, Sep 2022 – Present
+- Master in Management Science and Engineering (Dual master degree), Tsinghua University, Sep 2021 – Present
+- Bachelor in Statistics, Fudan University, Sep 2017 – Jun 2021
