@@ -49,6 +49,6 @@ $^{\dagger}$ indicates these authors contributed equally to this work.
 - National Scholarship for Undergraduates, Ministry of Education of China, 2018, 2019, 2020
 
 # 📖 Educations
-- Master in Industrial Engineering and Operations Research (Dual master degree), Columbia University, Sep 2022 – Present
-- Master in Management Science and Engineering (Dual master degree), Tsinghua University, Sep 2021 – Present
+- Master in Industrial Engineering and Operations Research (Dual master degree), Columbia University, Sep 2022 – Dec 2023 (Expected)
+- Master in Management Science and Engineering (Dual master degree), Tsinghua University, Sep 2021 – Dec 2023 (Expected)
 - Bachelor in Statistics, Fudan University, Sep 2017 – Jun 2021
