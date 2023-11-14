@@ -46,7 +46,7 @@ $^{\dagger}$ indicates these authors contributed equally to this work.
 - **National Scholarship for Graduates**, Ministry of Education of China, 2022
 - Outstanding Graduate of Shanghai, Shanghai Municipal Education Commission, 2021
 - Excellent Undergraduate Thesis Award, Fudan University, 2021
-- **National Scholarship for Undergraduates, Ministry of Education of China**, 2018, 2019, 2020
+- **National Scholarship for Undergraduates**, Ministry of Education of China, 2018, 2019, 2020
   - Awarded to 0.2% of the undergraduates every year
 
 # 📖 Educations
