@@ -31,6 +31,7 @@ Data-centric ML, Reliable ML, Trustworthy NLP
 
 Preprints:
 - DF-OOB: A Joint Valuation Framework for Interpreting Data Values, **Yifan Sun**, Bianca Dumitrascu, Yongchan Kwon, preprint
+- [Data Acquisition: A New Frontier in Data-centric AI](https://arxiv.org/pdf/2311.13712.pdf), Lingjiao Chen, Bilge Acun, Newsha Ardalani, **Yifan Sun**, Feiyang Kang, Hanrui Lyu, Yongchan Kwon, Ruoxi Jia, Carole-Jean Wu, Matei Zaharia, James Zou, preprint.
 
 Publications:
 - Get More for Less: Principled Data Selection for Warming Up Fine-Tuning in LLMs, Feiyang Kang, Hoang Anh Just$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Himanshu Jahagirdar$^{\dagger}$, Yuanzhi Zhang, Rongxing Du, Anit Kumar Sahu, Ruoxi Jia, ENLSP-III Workshop at NeurIPS 2023
