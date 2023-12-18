@@ -19,19 +19,19 @@ redirect_from:
 
 I am currently a master student at Columbia University from the department of Industrial Engineering and Operations Research, with a dual master degree at Tsinghua University. I earned my bachelor in Statistics from Fudan University.
 
-Data is the new oil. I am working towards a comprehensive understanding and harnessing of data, to thereby design **data-efficient** algorithms. Besides, I am also striving to make machine learning more **reliable and interpretable**, particularly in the context of **large language model**. I am fortunate to work closely with 
+Data is the new oil. I am working towards a comprehensive understanding and harnessing of data, to thereby drive ML to be more **interpretable**, **reliable**, and **efficient**, particularly in the context of **large language model**. I am fortunate to work closely with 
   <a href='https://www.yongchanstat.com/'>Prof. Yongchan Kwon</a> and 
   <a href='https://ruoxijia.info/'>Prof. Ruoxi Jia</a>.
 
 # 💬 Research Interests
-Data-centric ML, Reliable ML, Trustworthy NLP 
+Data-centric ML, Trustworthy NLP 
 
 
 # 📝 Preprints and Publications 
 
 Preprints:
-- DF-OOB: A Joint Valuation Framework for Interpreting Data Values, **Yifan Sun**, Bianca Dumitrascu, Yongchan Kwon, preprint
-- [Data Acquisition: A New Frontier in Data-centric AI](https://arxiv.org/pdf/2311.13712.pdf), Lingjiao Chen, Bilge Acun, Newsha Ardalani, **Yifan Sun**, Feiyang Kang, Hanrui Lyu, Yongchan Kwon, Ruoxi Jia, Carole-Jean Wu, Matei Zaharia, James Zou, preprint.
+- DF-OOB: A Joint Valuation Framework for Interpreting Data Values, **Yifan Sun**, Bianca Dumitrascu, Yongchan Kwon, in submission
+- [Data Acquisition: A New Frontier in Data-centric AI](https://arxiv.org/pdf/2311.13712.pdf), Lingjiao Chen, Bilge Acun, Newsha Ardalani, **Yifan Sun**, Feiyang Kang, Hanrui Lyu, Yongchan Kwon, Ruoxi Jia, Carole-Jean Wu, Matei Zaharia, James Zou, in submission
 
 Publications:
 - Get More for Less: Principled Data Selection for Warming Up Fine-Tuning in LLMs, Feiyang Kang, Hoang Anh Just$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Himanshu Jahagirdar$^{\dagger}$, Yuanzhi Zhang, Rongxing Du, Anit Kumar Sahu, Ruoxi Jia, ENLSP-III Workshop at NeurIPS 2023
@@ -48,7 +48,6 @@ $^{\dagger}$ indicates these authors contributed equally to this work.
 - Outstanding Graduate of Shanghai, Shanghai Municipal Education Commission, 2021
 - Excellent Undergraduate Thesis Award, Fudan University, 2021
 - **National Scholarship for Undergraduates**, Ministry of Education of China, 2018, 2019, 2020
-  - Awarded to 0.2% of the undergraduates every year
 
 # 📖 Educations
 - Master in Industrial Engineering and Operations Research (Dual master degree), Columbia University, Sep 2022 – Dec 2023 (Expected)
