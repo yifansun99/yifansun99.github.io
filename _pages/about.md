@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a master student at Columbia University from the department of Industrial Engineering and Operations Research, with a dual master degree at Tsinghua University. I earned my bachelor in Statistics from Fudan University.
 
-Data is the new oil. I am working towards a comprehensive understanding and harnessing of data, to thereby drive ML to be more **interpretable**, **reliable**, and **efficient**, particularly in the context of **large language model**. I am fortunate to work closely with 
+Data is the new oil. I am working towards a comprehensive understanding and harnessing of data, driving ML to be more **interpretable**, **reliable**, and **efficient**, particularly in the context of **large language models**. I am fortunate to work closely with 
   <a href='https://www.yongchanstat.com/'>Prof. Yongchan Kwon</a> and 
   <a href='https://ruoxijia.info/'>Prof. Ruoxi Jia</a>.
 
