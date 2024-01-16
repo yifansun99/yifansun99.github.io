@@ -30,7 +30,7 @@ Data-centric ML, Trustworthy NLP
 # 📝 Preprints and Publications 
 
 Preprints:
-- DF-OOB: A Joint Valuation Framework for Interpreting Data Values, **Yifan Sun**, Bianca Dumitrascu, Yongchan Kwon, in submission
+- DF-OOB: A Joint Valuation Framework for Interpreting Data Values, **Yifan Sun**, Jingyan Shen, Yongchan Kwon, in submission
 - [Data Acquisition: A New Frontier in Data-centric AI](https://arxiv.org/pdf/2311.13712.pdf), Lingjiao Chen, Bilge Acun, Newsha Ardalani, **Yifan Sun**, Feiyang Kang, Hanrui Lyu, Yongchan Kwon, Ruoxi Jia, Carole-Jean Wu, Matei Zaharia, James Zou, in submission
 
 Publications:
