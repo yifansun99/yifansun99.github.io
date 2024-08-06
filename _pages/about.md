@@ -24,7 +24,7 @@ I’ve previously worked on **data-centric AI** and **trustworthy AI**, and I’
 # 📝 Preprints and Publications 
 
 Preprints:
-- [AutoScale: Automatic Prediction of Compute-optimal Data Composition for Training LLMs](https://arxiv.org/abs/2407.20177), Feiyang Kang^{\dagger}$, **Yifan Sun**$^{\dagger}$, Bingbing Wen, Si Chen, Dawn Song, Rafid Mahmood, Ruoxi Jia
+- [AutoScale: Automatic Prediction of Compute-optimal Data Composition for Training LLMs](https://arxiv.org/abs/2407.20177), Feiyang Kang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Bingbing Wen, Si Chen, Dawn Song, Rafid Mahmood, Ruoxi Jia
 - 2D-OOB: Attributing Data Contribution through Joint Valuation Framework, **Yifan Sun**$^{\dagger}$, Jingyan Shen$^{\dagger}$, Yongchan Kwon
 - [Data Acquisition: A New Frontier in Data-centric AI](https://arxiv.org/pdf/2311.13712.pdf), Lingjiao Chen, Bilge Acun, Newsha Ardalani, **Yifan Sun**, Feiyang Kang, Hanrui Lyu, Yongchan Kwon, Ruoxi Jia, Carole-Jean Wu, Matei Zaharia, James Zou, in submission
 
