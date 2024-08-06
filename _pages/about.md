@@ -29,7 +29,7 @@ Preprints:
 - [Data Acquisition: A New Frontier in Data-centric AI](https://arxiv.org/pdf/2311.13712.pdf), Lingjiao Chen, Bilge Acun, Newsha Ardalani, **Yifan Sun**, Feiyang Kang, Hanrui Lyu, Yongchan Kwon, Ruoxi Jia, Carole-Jean Wu, Matei Zaharia, James Zou, in submission
 
 Publications:
-- Get More for Less: Principled Data Selection for Warming Up Fine-Tuning in LLMs, Feiyang Kang, Hoang Anh Just$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Himanshu Jahagirdar$^{\dagger}$, Yuanzhi Zhang, Rongxing Du, Anit Kumar Sahu, Ruoxi Jia, **ICLR 2024**
+- [Get More for Less: Principled Data Selection for Warming Up Fine-Tuning in LLMs](https://arxiv.org/abs/2405.02774), Feiyang Kang, Hoang Anh Just$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Himanshu Jahagirdar$^{\dagger}$, Yuanzhi Zhang, Rongxing Du, Anit Kumar Sahu, Ruoxi Jia, **ICLR 2024**
 
 $^{\dagger}$ indicates these authors contributed equally to this work. See my [google scholar](https://scholar.google.com/citations?user=okar9-4AAAAJ&hl=zh-CN) for earlier publications.
 
