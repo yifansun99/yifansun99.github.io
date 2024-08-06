@@ -19,7 +19,7 @@ redirect_from:
 
 I am an incoming Ph.D. student in Computer Science at [University of Illinois at Urbana-Champaign](https://illinois.edu/). I earned my dual master degree from Tsinghua University and Columbia University, and my bachelor from Fudan University.
 
-I’ve previously worked on **data-centric AI** and **trustworthy AI**, and I’m always interested in exploring new and exciting machine learning topics.
+I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, and I’m always interested in exploring new and exciting machine learning topics.
 
 # 📝 Preprints and Publications 
 
