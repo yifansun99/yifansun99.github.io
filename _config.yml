@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yifan Sun"
-description              : "Master student at Columbia University."
+description              : "Incoming Ph.D. student at UIUC."
 repository               : 
 google_scholar_stats_use_cdn : true
 
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yifan Sun"
-  avatar           : "images/homepage_2.jpg"
-  bio              : "Columbia University"
-  location         : "New York, NY"
+  avatar           : "images/homepage_2024.jpg"
+  bio              : "UIUC"
+  location         : #"New York, NY"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : ys3600@columbia.edu
+  email            : yifan50@illinois.edu
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
