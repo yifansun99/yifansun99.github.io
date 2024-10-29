@@ -32,7 +32,7 @@ Publications:
 - [2D-OOB: Attributing Data Contribution through Joint Valuation Framework](https://arxiv.org/abs/2408.03572), **Yifan Sun**$^{\dagger}$, Jingyan Shen$^{\dagger}$, Yongchan Kwon, **NeurIPS 2024**
 - [Get More for Less: Principled Data Selection for Warming Up Fine-Tuning in LLMs](https://arxiv.org/abs/2405.02774), Feiyang Kang, Hoang Anh Just$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Himanshu Jahagirdar$^{\dagger}$, Yuanzhi Zhang, Rongxing Du, Anit Kumar Sahu, Ruoxi Jia, **ICLR 2024**
 
-$^{\dagger}$ indicates these authors contributed equally to this work. See my [google scholar](https://scholar.google.com/citations?user=S3Fwr_wAAAAJ&hl=en) for earlier publications.
+$^{\dagger}$ indicates these authors contributed equally to this work. See my [Google Scholar](https://scholar.google.com/citations?user=S3Fwr_wAAAAJ&hl=en) for earlier publications.
 
 
 # 🥇 Honors and Awards
