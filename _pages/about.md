@@ -24,6 +24,7 @@ I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, and I’
 # 📝 Preprints and Publications 
 
 Preprints:
+- SVIP: Towards Verifiable Inference of Open-source Large Language Models, **Yifan Sun**$^{\dagger}$, Yuhang Li^{\dagger}$, Yue Zhang, Yuchen Jin, Huan Zhang
 - [AutoScale: Automatic Prediction of Compute-optimal Data Composition for Training LLMs](https://arxiv.org/abs/2407.20177), Feiyang Kang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Bingbing Wen, Si Chen, Dawn Song, Rafid Mahmood, Ruoxi Jia
 - [Data Acquisition: A New Frontier in Data-centric AI](https://arxiv.org/pdf/2311.13712.pdf), Lingjiao Chen, Bilge Acun, Newsha Ardalani, **Yifan Sun**, Feiyang Kang, Hanrui Lyu, Yongchan Kwon, Ruoxi Jia, Carole-Jean Wu, Matei Zaharia, James Zou
 
