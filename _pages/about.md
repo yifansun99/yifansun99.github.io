@@ -21,7 +21,7 @@ I am a first-year Ph.D. student in Computer Science at [University of Illinois a
 
 I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a particular focus on **Large Language Models**, and I’m always interested in exploring new and exciting machine learning topics. 
 
-> 🚀 I am actively seeking a Research Scientist Internship position for Summer 2025. Feel free to reach out if you believe there’s a potential fit.
+> 🚀 I am actively seeking a Research Scientist internship position for Summer 2025. Feel free to reach out if you believe there’s a potential fit.
 
 # 📝 Preprints and Publications 
 
