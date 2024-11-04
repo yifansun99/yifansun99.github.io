@@ -19,7 +19,7 @@ redirect_from:
 
 I am a first-year Ph.D. student in Computer Science at [University of Illinois at Urbana-Champaign](https://illinois.edu/). I earned my dual master degree from Tsinghua University and Columbia University, and my bachelor from Fudan University.
 
-I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, and I’m always interested in exploring new and exciting ML topics. 
+I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a particular focus on **Large Language Models**, and I’m always interested in exploring new and exciting machine learning topics. 
 
 I am actively seeking a Research Scientist Internship position for Summer 2025. Feel free to reach out if you believe there’s a potential fit.
 
