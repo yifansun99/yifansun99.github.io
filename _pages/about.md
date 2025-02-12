@@ -32,7 +32,7 @@ Preprints:
 Publications:
 - [2D-OOB: Attributing Data Contribution through Joint Valuation Framework](https://arxiv.org/abs/2408.03572), **Yifan Sun**$^{\dagger}$, Jingyan Shen$^{\dagger}$, Yongchan Kwon, **NeurIPS 2024**
 - [Get More for Less: Principled Data Selection for Warming Up Fine-Tuning in LLMs](https://arxiv.org/abs/2405.02774), Feiyang Kang, Hoang Anh Just$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Himanshu Jahagirdar$^{\dagger}$, Yuanzhi Zhang, Rongxing Du, Anit Kumar Sahu, Ruoxi Jia, **ICLR 2024**
-- [Data Acquisition: A New Frontier in Data-centric AI](https://arxiv.org/pdf/2311.13712.pdf), Lingjiao Chen, Bilge Acun, Newsha Ardalani, **Yifan Sun**, Feiyang Kang, Hanrui Lyu, Yongchan Kwon, Ruoxi Jia, Carole-Jean Wu, Matei Zaharia, James Zou, **Journal of Data-centric Machine Learning Research (DMLR)**
+- [Data Acquisition: A New Frontier in Data-centric AI](https://arxiv.org/pdf/2311.13712.pdf), Lingjiao Chen, Bilge Acun, Newsha Ardalani, **Yifan Sun**, Feiyang Kang, Hanrui Lyu, Yongchan Kwon, Ruoxi Jia, Carole-Jean Wu, Matei Zaharia, James Zou, **Transactions on Machine Learning Research (TMLR)**
 
 $^{\dagger}$ indicates these authors contributed equally to this work. See my [Google Scholar](https://scholar.google.com/citations?user=S3Fwr_wAAAAJ&hl=en) for earlier publications.
 
