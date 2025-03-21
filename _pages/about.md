@@ -26,6 +26,7 @@ I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a p
 # 📝 Preprints and Publications 
 
 Preprints:
+- [The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination], **Yifan Sun**$^{\dagger}$, Han Wang^{\dagger}$, Dongbai Li^{\dagger}$, Gang Wang, Huan Zhang
 - [SVIP: Towards Verifiable Inference of Open-source Large Language Models](https://arxiv.org/abs/2410.22307), **Yifan Sun**$^{\dagger}$, Yuhang Li$^{\dagger}$, Yue Zhang, Yuchen Jin, Huan Zhang
 - [AutoScale: Automatic Prediction of Compute-optimal Data Composition for Training LLMs](https://arxiv.org/abs/2407.20177), Feiyang Kang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Bingbing Wen, Si Chen, Dawn Song, Rafid Mahmood, Ruoxi Jia
 
