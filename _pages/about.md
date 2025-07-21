@@ -31,7 +31,6 @@ My most recent research interests include:
 Preprints:
 - [Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay](https://arxiv.org/abs/2506.05316), **Yifan Sun**$^{\dagger}$, Jingyan Shen$^{\dagger}$, Yibin Wang$^{\dagger}$, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang
 - [SVIP: Towards Verifiable Inference of Open-source Large Language Models](https://arxiv.org/abs/2410.22307), **Yifan Sun**$^{\dagger}$, Yuhang Li$^{\dagger}$, Yue Zhang, Yuchen Jin, Huan Zhang
-- [MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846), Jingyan Shen$^{\dagger}$, Jiarui Yao$^{\dagger}$, Rui Yang$^{\dagger}$, **Yifan Sun**, Feng Luo, Rui Pan, Tong Zhang, Han Zhao
 
 Publications:
 - [AutoScale: Automatic Prediction of Compute-optimal Data Composition for Training LLMs](https://arxiv.org/abs/2407.20177), Feiyang Kang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Bingbing Wen, Si Chen, Dawn Song, Rafid Mahmood, Ruoxi Jia, **COLM 2025**
