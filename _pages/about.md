@@ -22,7 +22,7 @@ I am a first-year Ph.D. student in Computer Science at [University of Illinois a
 I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a particular focus on **Large Language Models**, and I’m always interested in exploring new and exciting machine learning topics. I value research that is, at the very least, empirically useful; ideally, grounded in theory; and, at best, elegant.
 
 My most recent research interests include:
-- **RL Fine-tuning of LLMs**
+- **RL Fine-tuning for LLMs**
 - **LLM Reasoning**
 - **LLM Evaluation**
 
@@ -33,7 +33,7 @@ Preprints:
 - [SVIP: Towards Verifiable Inference of Open-source Large Language Models](https://arxiv.org/abs/2410.22307), **Yifan Sun**$^{\dagger}$, Yuhang Li$^{\dagger}$, Yue Zhang, Yuchen Jin, Huan Zhang
 
 Publications:
-- [AutoScale: Automatic Prediction of Compute-optimal Data Composition for Training LLMs](https://arxiv.org/abs/2407.20177), Feiyang Kang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Bingbing Wen, Si Chen, Dawn Song, Rafid Mahmood, Ruoxi Jia, **COLM 2025**
+- [AutoScale: Scale-Aware Data Mixing for Pre-Training LLMs](https://arxiv.org/abs/2407.20177), Feiyang Kang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Bingbing Wen, Si Chen, Dawn Song, Rafid Mahmood, Ruoxi Jia, **COLM 2025**
 - [The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination](https://arxiv.org/abs/2503.16402), **Yifan Sun**$^{\dagger}$, Han Wang$^{\dagger}$, Dongbai Li$^{\dagger}$, Gang Wang, Huan Zhang, **ICML 2025**
 - [2D-OOB: Attributing Data Contribution through Joint Valuation Framework](https://arxiv.org/abs/2408.03572), **Yifan Sun**$^{\dagger}$, Jingyan Shen$^{\dagger}$, Yongchan Kwon, **NeurIPS 2024**
 - [Get More for Less: Principled Data Selection for Warming Up Fine-Tuning in LLMs](https://arxiv.org/abs/2405.02774), Feiyang Kang, Hoang Anh Just$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Himanshu Jahagirdar$^{\dagger}$, Yuanzhi Zhang, Rongxing Du, Anit Kumar Sahu, Ruoxi Jia, **ICLR 2024**
