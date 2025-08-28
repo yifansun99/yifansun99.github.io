@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student in Computer Science at [University of Illinois at Urbana-Champaign](https://illinois.edu/). I earned my dual master degree from Tsinghua University and Columbia University, and my bachelor from Fudan University.
+I am a second-year Ph.D. student in Computer Science at [University of Illinois at Urbana-Champaign](https://illinois.edu/). I earned my dual master degree from Tsinghua University and Columbia University, and my bachelor from Fudan University.
 
 I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a particular focus on **Large Language Models**, and I’m always interested in exploring new and exciting machine learning topics. I value research that is, at the very least, empirically useful; ideally, grounded in theory; and, at best, elegant.
 
@@ -33,6 +33,7 @@ Preprints:
 - [SVIP: Towards Verifiable Inference of Open-source Large Language Models](https://arxiv.org/abs/2410.22307), **Yifan Sun**$^{\dagger}$, Yuhang Li$^{\dagger}$, Yue Zhang, Yuchen Jin, Huan Zhang
 
 Publications:
+- [MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846), Jingyan Shen$^{\dagger}$, Jiarui Yao$^{\dagger}$, Rui Yang$^{\dagger}$, **Yifan Sun**, Feng Luo, Rui Pan, Tong Zhang, Han Zhao, **EMNLP 2025 (Main)**
 - [AutoScale: Scale-Aware Data Mixing for Pre-Training LLMs](https://arxiv.org/abs/2407.20177), Feiyang Kang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Bingbing Wen, Si Chen, Dawn Song, Rafid Mahmood, Ruoxi Jia, **COLM 2025**
 - [The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination](https://arxiv.org/abs/2503.16402), **Yifan Sun**$^{\dagger}$, Han Wang$^{\dagger}$, Dongbai Li$^{\dagger}$, Gang Wang, Huan Zhang, **ICML 2025**
 - [2D-OOB: Attributing Data Contribution through Joint Valuation Framework](https://arxiv.org/abs/2408.03572), **Yifan Sun**$^{\dagger}$, Jingyan Shen$^{\dagger}$, Yongchan Kwon, **NeurIPS 2024**
