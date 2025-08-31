@@ -51,10 +51,5 @@ $^{\dagger}$ indicates these authors contributed equally to this work. See my [G
 - Excellent Undergraduate Thesis Award, Fudan University, 2021
 - **National Scholarship for Undergraduates**, Ministry of Education of China, 2018, 2019, 2020
 
-# 💼 Experience
-**Applied Scientist Intern**
-Amazon AGI Foundations, Sunnyvale, CA
-May 2025 – Aug 2025
-
 # 🧑‍⚖️ Academic Service
 - Reviewer: NeurIPS, ICML, ICLR, EMNLP
