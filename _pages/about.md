@@ -19,9 +19,9 @@ redirect_from:
 
 I am a second-year Ph.D. student in Computer Science at [University of Illinois at Urbana-Champaign](https://illinois.edu/). I earned my dual master degree from Tsinghua University and Columbia University, and my bachelor from Fudan University.
 
-I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a particular focus on **Large Language Models**, and I’m always interested in exploring new and exciting machine learning topics. I value research that is, at the very least, empirically useful; ideally, grounded in theory; and, at best, elegant.
+I’m always interested in exploring new and exciting machine learning topics. I value research that is, at the very least, empirically useful; ideally, grounded in theory; and, at best, elegant.
 
-My most recent research interests include:
+I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a particular focus on **Large Language Models**. My most recent research interests include:
 - **RL Fine-tuning for LLMs**
 - **LLM Reasoning**
 - **LLM Evaluation**
@@ -51,3 +51,5 @@ $^{\dagger}$ indicates these authors contributed equally to this work. See my [G
 - Excellent Undergraduate Thesis Award, Fudan University, 2021
 - **National Scholarship for Undergraduates**, Ministry of Education of China, 2018, 2019, 2020
 
+# 🧑‍⚖️ Academic Service
+Reviewer: NeurIPS, ICML, ICLR, EMNLP
