@@ -29,10 +29,10 @@ I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a p
 # 📝 Preprints and Publications 
 
 Preprints:
-- [Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay](https://arxiv.org/abs/2506.05316), **Yifan Sun**$^{\dagger}$, Jingyan Shen$^{\dagger}$, Yibin Wang$^{\dagger}$, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang
 - [SVIP: Towards Verifiable Inference of Open-source Large Language Models](https://arxiv.org/abs/2410.22307), **Yifan Sun**$^{\dagger}$, Yuhang Li$^{\dagger}$, Yue Zhang, Yuchen Jin, Huan Zhang
 
 Publications:
+- [Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay](https://arxiv.org/abs/2506.05316), **Yifan Sun**$^{\dagger}$, Jingyan Shen$^{\dagger}$, Yibin Wang$^{\dagger}$, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang, **NeurIPS 2025**
 - [MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846), Jingyan Shen$^{\dagger}$, Jiarui Yao$^{\dagger}$, Rui Yang$^{\dagger}$, **Yifan Sun**, Feng Luo, Rui Pan, Tong Zhang, Han Zhao, **EMNLP 2025 (Main)**
 - [AutoScale: Scale-Aware Data Mixing for Pre-Training LLMs](https://arxiv.org/abs/2407.20177), Feiyang Kang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Bingbing Wen, Si Chen, Dawn Song, Rafid Mahmood, Ruoxi Jia, **COLM 2025**
 - [The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination](https://arxiv.org/abs/2503.16402), **Yifan Sun**$^{\dagger}$, Han Wang$^{\dagger}$, Dongbai Li$^{\dagger}$, Gang Wang, Huan Zhang, **ICML 2025**
