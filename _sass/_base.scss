@@ -320,3 +320,10 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+html, body,
+h1, h2, h3, h4, h5, h6,
+p, a, li, nav, .sidebar, .masthead, .archive__item,
+figcaption, small, .small, blockquote, strong, em {
+  font-family: 'Inter', sans-serif !important;
+}
