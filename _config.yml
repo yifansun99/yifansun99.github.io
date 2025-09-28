@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yifan Sun"
   avatar           : "images/homepage_2.jpg"
-  bio              : "UIUC"
+  bio              : 
   location         : #"New York, NY"
   employer         :
   pubmed           : 
