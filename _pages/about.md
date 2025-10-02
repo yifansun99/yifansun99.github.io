@@ -30,6 +30,7 @@ I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a p
 
 Preprints:
 - [SVIP: Towards Verifiable Inference of Open-source Large Language Models](https://arxiv.org/abs/2410.22307), **Yifan Sun**$^{\dagger}$, Yuhang Li$^{\dagger}$, Yue Zhang, Yuchen Jin, Huan Zhang
+- [Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](https://arxiv.org/abs/2510.00419), Kairun Zhang$^{\dagger}$, Haoyu Li$^{\dagger}$, Yanjun Zhao$^{\dagger}$, **Yifan Sun**, Huan Zhang
 
 Publications:
 - [Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay](https://arxiv.org/abs/2506.05316), **Yifan Sun**$^{\dagger}$, Jingyan Shen$^{\dagger}$, Yibin Wang$^{\dagger}$, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang, **NeurIPS 2025**
