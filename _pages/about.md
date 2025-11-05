@@ -26,7 +26,7 @@ I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a p
 - **LLM Reasoning**
 - **LLM Evaluation**
 
-🚀 <mark>**I am currently actively seeking a Research Scientist Internship for Summer 2026. If you think there might be a good fit, feel free to reach out!**</mark> 
+🚀 <mark>I am currently actively seeking a Research Scientist Internship for Summer 2026. If you think there might be a good fit, feel free to reach out!</mark> 
 
 # 📝 Preprints and Publications 
 
