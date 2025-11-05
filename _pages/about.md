@@ -57,3 +57,6 @@ $^{\dagger}$ indicates these authors contributed equally to this work. See my [G
 
 # 🧑‍⚖️ Academic Service
 - Reviewer: NeurIPS, ICML, ICLR, EMNLP
+
+# 🏢 Industry Experience
+- Applied Scientist Intern, Amazon — Summer 2025
