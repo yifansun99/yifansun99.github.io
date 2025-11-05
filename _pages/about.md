@@ -60,4 +60,5 @@ $^{\dagger}$ indicates these authors contributed equally to this work. See my [G
 
 # 🏢 Industry Experience
 - Applied Scientist Intern, AGI Foundations, Amazon, May 2025 – Aug 2025
+  - Worked on post-training techniques for LLMs.
 
