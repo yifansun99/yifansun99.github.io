@@ -31,8 +31,8 @@ I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a p
 # 📝 Preprints and Publications 
 
 **Preprints and Workshop Papers**:
-- [SVIP: Towards Verifiable Inference of Open-source Large Language Models](https://arxiv.org/abs/2410.22307), **Yifan Sun**$^{\dagger}$, Yuhang Li$^{\dagger}$, Yue Zhang, Yuchen Jin, Huan Zhang
 - [Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](https://arxiv.org/abs/2510.00419), Kairun Zhang$^{\dagger}$, Haoyu Li$^{\dagger}$, Yanjun Zhao$^{\dagger}$, **Yifan Sun**, Huan Zhang
+- [SVIP: Towards Verifiable Inference of Open-source Large Language Models](https://arxiv.org/abs/2410.22307), **Yifan Sun**$^{\dagger}$, Yuhang Li$^{\dagger}$, Yue Zhang, Yuchen Jin, Huan Zhang, Socially Responsible and Trustworthy Foundation Models Workshop at NeurIPS 2025
 - When Reasoning Meets Its Laws, Junyu Zhang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Tianang Leng$^{\dagger}$, Jingyan Shen$^{\dagger}$, Ziyin Liu, Paul Pu Liang, Huan Zhang, Efficient Reasoning Workshop at NeurIPS 2025 (Oral Presentation)
 
 **Selected Publications**:
