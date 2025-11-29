@@ -31,9 +31,9 @@ I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a p
 # 📝 Preprints and Publications 
 
 **Preprints and Workshop Papers**:
-- [Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](https://arxiv.org/abs/2510.00419), Kairun Zhang$^{\dagger}$, Haoyu Li$^{\dagger}$, Yanjun Zhao$^{\dagger}$, **Yifan Sun**, Huan Zhang
 - [SVIP: Towards Verifiable Inference of Open-Source Large Language Models](https://arxiv.org/abs/2410.22307), **Yifan Sun**$^{\dagger}$, Yuhang Li$^{\dagger}$, Yue Zhang, Yuchen Jin, Huan Zhang, Socially Responsible and Trustworthy Foundation Models Workshop at NeurIPS 2025 (Oral Presentation)
 - When Reasoning Meets Its Laws, Junyu Zhang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Tianang Leng$^{\dagger}$, Jingyan Shen$^{\dagger}$, Ziyin Liu, Paul Pu Liang, Huan Zhang, Efficient Reasoning Workshop at NeurIPS 2025 (Oral Presentation)
+- [Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](https://arxiv.org/abs/2510.00419), Kairun Zhang$^{\dagger}$, Haoyu Li$^{\dagger}$, Yanjun Zhao$^{\dagger}$, **Yifan Sun**, Huan Zhang
 - Alignment from Ranking and Rating Information, Luca Viano, Ruida Zhou, **Yifan Sun**, Mahdi Namazifar, Volkan Cevher, Shoham Sabach, Mohammad Ghavamzadeh
 - Influence-Preserving Proxies for Gradient-Based Data Selection in LLM Fine-Tuning, Sirui Chen, Yunzhe Qi, Mengting Ai, **Yifan Sun**, Ruizhong Qiu, Jiaru Zou, Jingrui He
 
