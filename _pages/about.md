@@ -35,9 +35,9 @@ I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a p
 - [When Reasoning Meets Its Laws](https://arxiv.org/pdf/2512.17901), Junyu Zhang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Tianang Leng$^{\dagger}$, Jingyan Shen$^{\dagger}$, Ziyin Liu, Paul Pu Liang, Huan Zhang, Efficient Reasoning Workshop at NeurIPS 2025 (Oral Presentation; Best Paper Nomination)
 - [Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](https://arxiv.org/abs/2510.00419), Kairun Zhang$^{\dagger}$, Haoyu Li$^{\dagger}$, Yanjun Zhao$^{\dagger}$, **Yifan Sun**, Huan Zhang
 - Alignment from Ranking and Rating Information, Luca Viano, Ruida Zhou, **Yifan Sun**, Mahdi Namazifar, Volkan Cevher, Shoham Sabach, Mohammad Ghavamzadeh
-- Influence-Preserving Proxies for Gradient-Based Data Selection in LLM Fine-Tuning, Sirui Chen, Yunzhe Qi, Mengting Ai, **Yifan Sun**, Ruizhong Qiu, Jiaru Zou, Jingrui He
 
 **Selected Publications**:
+- Influence-Preserving Proxies for Gradient-Based Data Selection in LLM Fine-Tuning, Sirui Chen, Yunzhe Qi, Mengting Ai, **Yifan Sun**, Ruizhong Qiu, Jiaru Zou, Jingrui He, **ICLR 2026**
 - [Improving Data Efficiency for LLM Reinforcement Fine-Tuning Through Difficulty-targeted Online Data Selection and Rollout Replay](https://arxiv.org/abs/2506.05316), **Yifan Sun**$^{\dagger}$, Jingyan Shen$^{\dagger}$, Yibin Wang$^{\dagger}$, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang, **NeurIPS 2025**
 - [MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846), Jingyan Shen$^{\dagger}$, Jiarui Yao$^{\dagger}$, Rui Yang$^{\dagger}$, **Yifan Sun**, Feng Luo, Rui Pan, Tong Zhang, Han Zhao, **EMNLP 2025 (Main Conference)** — <mark> Outstanding Paper Award (7 selected out of 8,174 submissions)<mark>
 - [AutoScale: Scale-Aware Data Mixing for Pre-Training LLMs](https://arxiv.org/abs/2407.20177), Feiyang Kang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Bingbing Wen, Si Chen, Dawn Song, Rafid Mahmood, Ruoxi Jia, **COLM 2025**
