@@ -59,7 +59,7 @@ $^{\dagger}$ indicates these authors contributed equally to this work. See my [G
 - **National Scholarship for Undergraduates**, Ministry of Education of China, 2018, 2019, 2020
 
 # 🧑‍⚖️ Academic Service
-- Reviewer: NeurIPS, ICML, ICLR, EMNLP, TMLR
+- Reviewer: NeurIPS, ICML, ICLR, EMNLP, COLM, TMLR
 
 # 🏢 Industry Experience
 - Applied Scientist Intern, AGI Foundations, Amazon, May 2025 – Aug 2025
