@@ -26,7 +26,9 @@ I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a p
 - **LLM Reasoning**
 - **LLM Evaluation**
 
-🚀 <mark>I am currently actively seeking a Research Scientist Internship for Summer 2026. If you think there might be a good fit, feel free to reach out!</mark> 
+<span class="highlight">
+  🚀 I will join Meta Superintelligence Labs (MSL) as a Research Scientist Intern in Summer 2026. Feel free to reach out if you would like to connect or chat about research!
+</span>
 
 # 📝 Preprints and Publications 
 
