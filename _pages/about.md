@@ -40,7 +40,7 @@ I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a p
 - [Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](https://arxiv.org/abs/2510.00419), Kairun Zhang$^{\dagger}$, Haoyu Li$^{\dagger}$, Yanjun Zhao$^{\dagger}$, **Yifan Sun**, Huan Zhang, **ICML 2026**
 - [Influence-Preserving Proxies for Gradient-Based Data Selection in LLM Fine-Tuning](https://arxiv.org/abs/2602.17835), Sirui Chen, Yunzhe Qi, Mengting Ai, **Yifan Sun**, Ruizhong Qiu, Jiaru Zou, Jingrui He, **ICLR 2026**
 - [Improving Data Efficiency for LLM Reinforcement Fine-Tuning Through Difficulty-targeted Online Data Selection and Rollout Replay](https://arxiv.org/abs/2506.05316), **Yifan Sun**$^{\dagger}$, Jingyan Shen$^{\dagger}$, Yibin Wang$^{\dagger}$, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang, **NeurIPS 2025**
-- [MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846), Jingyan Shen$^{\dagger}$, Jiarui Yao$^{\dagger}$, Rui Yang$^{\dagger}$, **Yifan Sun**, Feng Luo, Rui Pan, Tong Zhang, Han Zhao, **EMNLP 2025 (Main Conference)** — <mark> Outstanding Paper Award (7 selected out of 8,174 submissions)<mark>
+- [MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846), Jingyan Shen$^{\dagger}$, Jiarui Yao$^{\dagger}$, Rui Yang$^{\dagger}$, **Yifan Sun**, Feng Luo, Rui Pan, Tong Zhang, Han Zhao, **EMNLP 2025 (Main Conference)** — Outstanding Paper Award (7 selected out of 8,174 submissions)
 - [AutoScale: Scale-Aware Data Mixing for Pre-Training LLMs](https://arxiv.org/abs/2407.20177), Feiyang Kang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Bingbing Wen, Si Chen, Dawn Song, Rafid Mahmood, Ruoxi Jia, **COLM 2025**
 - [The Emperor's New Clothes in Benchmarking? A Rigorous Examination of Mitigation Strategies for LLM Benchmark Data Contamination](https://arxiv.org/abs/2503.16402), **Yifan Sun**$^{\dagger}$, Han Wang$^{\dagger}$, Dongbai Li$^{\dagger}$, Gang Wang, Huan Zhang, **ICML 2025**
 - [2D-OOB: Attributing Data Contribution through Joint Valuation Framework](https://arxiv.org/abs/2408.03572), **Yifan Sun**$^{\dagger}$, Jingyan Shen$^{\dagger}$, Yongchan Kwon, **NeurIPS 2024**
@@ -51,6 +51,7 @@ $^{\dagger}$ indicates these authors contributed equally to this work. See my [G
 
 
 # 🥇 Honors and Awards
+- <span style="font-weight: 600; background: rgba(138, 180, 248, 0.28); border-radius: 6px; padding: 2px 6px;">Outstanding Paper Award, EMNLP 2025</span>
 - Outstanding Graduate of Beijing, Beijing Municipal Education Commission, 2024
 - Benjamin Miller Memorial Fellowship, Columbia University, 2023
 - **National Scholarship for Graduates**, Ministry of Education of China, 2022
