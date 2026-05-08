@@ -56,7 +56,6 @@ $^{\dagger}$ indicates these authors contributed equally to this work. See my [G
 - Benjamin Miller Memorial Fellowship, Columbia University, 2023
 - **National Scholarship for Graduates**, Ministry of Education of China, 2022
 - Outstanding Graduate of Shanghai, Shanghai Municipal Education Commission, 2021
-- Excellent Undergraduate Thesis Award, Fudan University, 2021
 - **National Scholarship for Undergraduates**, Ministry of Education of China, 2018, 2019, 2020
 
 # 🧑‍⚖️ Academic Service
