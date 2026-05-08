@@ -26,7 +26,7 @@ I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a p
 - **LLM Reasoning**
 - **LLM Evaluation**
 
-<span style="font-weight: 600; background: rgba(138, 180, 248, 0.28); border-radius: 6px; padding: 2px 6px;">🚀 I will join Meta Superintelligence Labs (MSL) as a Research Scientist Intern in Summer 2026. Feel free to reach out if you would like to connect or chat about research!</span>
+<span style="font-weight: 600; background: rgba(138, 180, 248, 0.28); border-radius: 6px; padding: 2px 6px;">🚀 I will join Meta Superintelligence Labs (MSL) in Menlo Park, CA as a Research Scientist Intern in Summer 2026. Feel free to reach out if you would like to connect or chat about research!</span>
 
 # 📝 Preprints and Publications 
 
