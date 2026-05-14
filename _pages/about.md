@@ -51,6 +51,7 @@ $^{\dagger}$ indicates these authors contributed equally to this work. See my [G
 
 
 # 🥇 Honors and Awards
+- ICML 2026 Gold Reviewer, 2026
 - <span style="font-weight: 600; background: rgba(138, 180, 248, 0.28); border-radius: 6px; padding: 2px 6px;">Outstanding Paper Award, EMNLP 2025</span>
 - Outstanding Graduate of Beijing, Beijing Municipal Education Commission, 2024
 - Benjamin Miller Memorial Fellowship, Columbia University, 2023
