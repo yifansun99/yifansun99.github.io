@@ -31,12 +31,12 @@ I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a p
 # 📝 Preprints and Publications 
 
 **Preprints and Workshop Papers**:
-- [MonitorBench: A Comprehensive Benchmark for Chain-of-Thought Monitorability in Large Language Models](https://arxiv.org/pdf/2603.28590), Han Wang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Brian Ko$^{\dagger}$, Mann Talati, Jiawen Gong, Zimeng Li, Naicheng Yu, Xucheng Yu, Wei Shen, Vedant Jolly, Huan Zhang
 - [SVIP: Towards Verifiable Inference of Open-Source Large Language Models](https://arxiv.org/abs/2410.22307), **Yifan Sun**$^{\dagger}$, Yuhang Li$^{\dagger}$, Yue Zhang, Yuchen Jin, Huan Zhang, Socially Responsible and Trustworthy Foundation Models Workshop at NeurIPS 2025 (Oral Presentation)
 - [When Reasoning Meets Its Laws](https://arxiv.org/pdf/2512.17901), Junyu Zhang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Tianang Leng$^{\dagger}$, Jingyan Shen$^{\dagger}$, Ziyin Liu, Paul Pu Liang, Huan Zhang, Efficient Reasoning Workshop at NeurIPS 2025 (Oral Presentation; Best Paper Nomination)
 - [Direct Preference Optimization with Rating Information: Practical Algorithms and Provable Gains](https://arxiv.org/pdf/2602.00603v1), Luca Viano, Ruida Zhou, **Yifan Sun**, Mahdi Namazifar, Volkan Cevher, Shoham Sabach, Mohammad Ghavamzadeh
 
 **Selected Publications**:
+- [MonitorBench: A Comprehensive Benchmark for Chain-of-Thought Monitorability in Large Language Models](https://arxiv.org/pdf/2603.28590), Han Wang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Brian Ko$^{\dagger}$, Mann Talati, Jiawen Gong, Zimeng Li, Naicheng Yu, Xucheng Yu, Wei Shen, Vedant Jolly, Huan Zhang, **COLM 2026**
 - [Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](https://arxiv.org/abs/2510.00419), Kairun Zhang$^{\dagger}$, Haoyu Li$^{\dagger}$, Yanjun Zhao$^{\dagger}$, **Yifan Sun**, Huan Zhang, **ICML 2026**
 - [Influence-Preserving Proxies for Gradient-Based Data Selection in LLM Fine-Tuning](https://arxiv.org/abs/2602.17835), Sirui Chen, Yunzhe Qi, Mengting Ai, **Yifan Sun**, Ruizhong Qiu, Jiaru Zou, Jingrui He, **ICLR 2026**
 - [Improving Data Efficiency for LLM Reinforcement Fine-Tuning Through Difficulty-targeted Online Data Selection and Rollout Replay](https://arxiv.org/abs/2506.05316), **Yifan Sun**$^{\dagger}$, Jingyan Shen$^{\dagger}$, Yibin Wang$^{\dagger}$, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang, **NeurIPS 2025**
