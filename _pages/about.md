@@ -31,6 +31,7 @@ I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a p
 # 📝 Preprints and Publications 
 
 **Preprints and Workshop Papers**:
+- [Understanding Reasoning from Pretraining to Post-Training](https://arxiv.org/pdf/2607.16097), Jingyan Shen$^{\dagger}$, Ang Li$^{\dagger}$, Salman Rahman, **Yifan Sun**, Micah Goldblum, Matus Telgarsky, Pavel Izmailov
 - [SVIP: Towards Verifiable Inference of Open-Source Large Language Models](https://arxiv.org/abs/2410.22307), **Yifan Sun**$^{\dagger}$, Yuhang Li$^{\dagger}$, Yue Zhang, Yuchen Jin, Huan Zhang, Socially Responsible and Trustworthy Foundation Models Workshop at NeurIPS 2025 (Oral Presentation)
 - [When Reasoning Meets Its Laws](https://arxiv.org/pdf/2512.17901), Junyu Zhang$^{\dagger}$, **Yifan Sun**$^{\dagger}$, Tianang Leng$^{\dagger}$, Jingyan Shen$^{\dagger}$, Ziyin Liu, Paul Pu Liang, Huan Zhang, Efficient Reasoning Workshop at NeurIPS 2025 (Oral Presentation; Best Paper Nomination)
 - [Direct Preference Optimization with Rating Information: Practical Algorithms and Provable Gains](https://arxiv.org/pdf/2602.00603v1), Luca Viano, Ruida Zhou, **Yifan Sun**, Mahdi Namazifar, Volkan Cevher, Shoham Sabach, Mohammad Ghavamzadeh
@@ -60,7 +61,7 @@ $^{\dagger}$ indicates these authors contributed equally to this work. See my [G
 - **National Scholarship for Undergraduates**, Ministry of Education of China, 2018, 2019, 2020
 
 # 🧑‍⚖️ Academic Service
-- Reviewer: NeurIPS, ICML, ICLR, EMNLP, COLM, TMLR
+- Reviewer: NeurIPS, ICML, ICLR, TMLR, EMNLP, COLM, AAAI
 
 # 🏢 Industry Experience
 - Applied Scientist Intern, AGI Foundations, Amazon, May 2025 – Aug 2025
