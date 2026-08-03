@@ -21,12 +21,12 @@ I am a second-year Ph.D. student in Computer Science at [University of Illinois 
 
 I’m always interested in exploring new and exciting machine learning topics. I value research that is, at the very least, empirically useful; ideally, grounded in theory; and, at best, elegant.
 
-I’ve previously worked on **Data-centric ML** and **Trustworthy ML**, with a particular focus on **Large Language Models**. My most recent research interests include:
+My most recent research interests include:
+- **Data-centric Problems in LLMs**
 - **RL Fine-tuning for LLMs**
 - **LLM Reasoning**
 - **LLM Evaluation**
 
-<span style="font-weight: 600; background: rgba(138, 180, 248, 0.28); border-radius: 6px; padding: 2px 6px;">🚀 I will join Meta Superintelligence Labs (MSL) in Menlo Park, CA as a Research Scientist Intern in Summer 2026. Feel free to reach out if you would like to connect or chat about research!</span>
 
 # 📝 Preprints and Publications 
 
@@ -64,6 +64,8 @@ $^{\dagger}$ indicates these authors contributed equally to this work. See my [G
 - Reviewer: NeurIPS, ICML, ICLR, TMLR, EMNLP, COLM, AAAI
 
 # 🏢 Industry Experience
+- Research Scientist Intern, FAIR, Meta, May 2026 – Aug 2026
+  - Conducted research on LLM pre-training
 - Applied Scientist Intern, AGI Foundations, Amazon, May 2025 – Aug 2025
   - Conducted research on LLM post-training
 
