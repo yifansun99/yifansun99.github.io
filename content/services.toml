@@ -1,0 +1,13 @@
+type = "card"
+title = "Academic Service"
+description = "Service to the machine learning research community."
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "Machine Learning and Artificial Intelligence"
+content = "NeurIPS · ICML · ICLR · EMNLP · COLM · AAAI"
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Transactions on Machine Learning Research"
+content = "Reviewer for TMLR."

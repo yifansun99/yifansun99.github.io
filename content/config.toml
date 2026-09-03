@@ -1,0 +1,68 @@
+[site]
+title = "Yifan Sun"
+description = "Yifan Sun is a Computer Science Ph.D. student at UIUC working on data-centric machine learning, reinforcement fine-tuning, reasoning, and evaluation for large language models."
+favicon = "/favicon.ico"
+last_updated = "September 2026"
+
+[author]
+name = "Yifan Sun"
+title = "Ph.D. Student in Computer Science"
+institution = "University of Illinois Urbana-Champaign"
+avatar = "/bio.jpg"
+
+[social]
+email = "yifan50@illinois.edu"
+location = "Urbana–Champaign, Illinois"
+location_url = "https://maps.google.com/?q=University+of+Illinois+Urbana-Champaign"
+location_details = [
+  "University of Illinois Urbana-Champaign",
+  "Urbana–Champaign, Illinois"
+]
+google_scholar = "https://scholar.google.com/citations?user=S3Fwr_wAAAAJ&hl=en"
+github = "https://github.com/yifansun99"
+
+[features]
+enable_likes = false
+enable_one_page_mode = false
+
+[i18n]
+enabled = false
+locales = ["en"]
+default_locale = "en"
+mode = "fixed"
+fixed_locale = "en"
+persist = false
+switcher = false
+
+[i18n.labels]
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Experience"
+type = "page"
+target = "experience"
+href = "/experience"
+
+[[navigation]]
+title = "Honors"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Service"
+type = "page"
+target = "services"
+href = "/services"

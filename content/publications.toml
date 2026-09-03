@@ -1,0 +1,4 @@
+type = "publication"
+title = "Publications"
+description = "Preprints, workshop papers, and selected peer-reviewed publications. My name is highlighted."
+source = "publications.bib"
