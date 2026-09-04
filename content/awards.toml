@@ -1,18 +1,15 @@
 type = "card"
 title = "Honors & Awards"
-description = "Selected recognition for research and academic achievement."
 
 [[items]]
-title = "Gold Reviewer"
-subtitle = "International Conference on Machine Learning"
+title = "ICML 2026 Gold Reviewer"
 date = "2026"
-content = "Recognized as an ICML Gold Reviewer."
 
 [[items]]
 title = "Outstanding Paper Award"
 subtitle = "EMNLP"
 date = "2025"
-content = "Awarded for **MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**; 7 papers selected from 8,174 submissions."
+content = "7 selected out of 8,174 submissions."
 
 [[items]]
 title = "Outstanding Graduate of Beijing"
@@ -37,5 +34,4 @@ date = "2021"
 [[items]]
 title = "National Scholarship for Undergraduates"
 subtitle = "Ministry of Education of China"
-date = "2018–2020"
-content = "Received in 2018, 2019, and 2020."
+date = "2018, 2019, 2020"

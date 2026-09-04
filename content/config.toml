@@ -1,23 +1,17 @@
 [site]
 title = "Yifan Sun"
-description = "Yifan Sun is a Computer Science Ph.D. student at UIUC working on data-centric machine learning, reinforcement fine-tuning, reasoning, and evaluation for large language models."
+description = "CS Ph.D. student at UIUC."
 favicon = "/favicon.ico"
 last_updated = "September 2026"
 
 [author]
 name = "Yifan Sun"
-title = "Ph.D. Student in Computer Science"
-institution = "University of Illinois Urbana-Champaign"
+title = "Third-year Ph.D. student in Computer Science"
+institution = "University of Illinois at Urbana-Champaign"
 avatar = "/bio.jpg"
 
 [social]
 email = "yifan50@illinois.edu"
-location = "Urbana–Champaign, Illinois"
-location_url = "https://maps.google.com/?q=University+of+Illinois+Urbana-Champaign"
-location_details = [
-  "University of Illinois Urbana-Champaign",
-  "Urbana–Champaign, Illinois"
-]
 google_scholar = "https://scholar.google.com/citations?user=S3Fwr_wAAAAJ&hl=en"
 github = "https://github.com/yifansun99"
 

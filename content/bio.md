@@ -1,3 +1,3 @@
-I am a third-year Ph.D. student in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu/). Before UIUC, I earned dual master's degrees from Tsinghua University and Columbia University, and a bachelor's degree from Fudan University.
+I am a third-year Ph.D. student in Computer Science at [University of Illinois at Urbana-Champaign](https://illinois.edu/). I earned my dual master degree from Tsinghua University and Columbia University, and my bachelor from Fudan University.
 
-My research asks how **data, learning objectives, and evaluation shape the capabilities of large language models**—from pre-training and reinforcement fine-tuning to reasoning and monitorability. I value work that is empirically useful, grounded in theory, and, at its best, elegant.
+I’m always interested in exploring new and exciting machine learning topics. I value research that is, at the very least, empirically useful; ideally, grounded in theory; and, at best, elegant.

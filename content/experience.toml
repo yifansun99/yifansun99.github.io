@@ -1,33 +1,14 @@
 type = "card"
-title = "Experience & Education"
-description = "Research experience across academia and industry."
+title = "Industry Experience"
 
 [[items]]
 title = "Research Scientist Intern"
 subtitle = "FAIR, Meta"
-date = "May–Aug 2026"
-content = "Research on large language model pre-training."
-tags = ["LLM pre-training", "Research"]
+date = "May 2026 – Aug 2026"
+content = "Conducted research on LLM pre-training."
 
 [[items]]
 title = "Applied Scientist Intern"
 subtitle = "AGI Foundations, Amazon"
-date = "May–Aug 2025"
-content = "Research on large language model post-training."
-tags = ["LLM post-training", "Research"]
-
-[[items]]
-title = "Ph.D. in Computer Science"
-subtitle = "University of Illinois Urbana-Champaign"
-date = "2024–Present"
-content = "Research in data-centric machine learning, reinforcement fine-tuning, reasoning, and evaluation for large language models."
-
-[[items]]
-title = "Dual Master's Degrees"
-subtitle = "Tsinghua University · Columbia University"
-content = "Graduate study spanning computer science and data-centric machine learning."
-
-[[items]]
-title = "Bachelor's Degree"
-subtitle = "Fudan University"
-date = "2021"
+date = "May 2025 – Aug 2025"
+content = "Conducted research on LLM post-training."

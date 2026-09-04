@@ -58,9 +58,6 @@ export default function Profile({ author, social, researchInterests }: ProfilePr
       </div>
 
       <div className="text-center lg:text-left">
-        <p className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-accent">
-          Researcher
-        </p>
         <h1 className="mb-2 font-serif text-4xl font-semibold tracking-[-0.035em] text-primary">
           {author.name}
         </h1>
