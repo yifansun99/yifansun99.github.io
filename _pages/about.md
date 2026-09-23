@@ -21,10 +21,10 @@ I am a third-year Ph.D. student in Computer Science at [University of Illinois a
 
 I’m always interested in exploring new and exciting machine learning topics. I value research that is, at the very least, empirically useful; ideally, grounded in theory; and, at best, elegant.
 
-My most recent research interests include:
+My current research interests include:
 - **Data-centric Problems in LLMs**
-- **RL Fine-tuning for LLMs**
-- **LLM Reasoning**
+- **RL for LLM Post-training**
+- **LLM Agents**
 - **LLM Evaluation**
 
 
