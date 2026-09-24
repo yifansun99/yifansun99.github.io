@@ -15,5 +15,11 @@ type = "markdown"
 source = "bio.md"
 title = "About"
 
-# Keep the homepage free of news for now. Do not add a Selected Work section
-# until Yifan confirms the exact papers to feature.
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "Selected Preprints and Publications"
+filter = "selected"
+limit = 6
+
+# Keep the homepage free of news for now.
