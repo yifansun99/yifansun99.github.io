@@ -230,7 +230,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                             <div className="flex flex-col md:flex-row gap-6">
                                 {pub.preview && (
                                     <div className="w-full md:w-80 lg:w-[32rem] flex-shrink-0">
-                                        <div className="aspect-video lg:aspect-[16/10] relative rounded-lg overflow-hidden bg-white border border-neutral-100 dark:border-neutral-800">
+                                        <div className="aspect-[2/1] relative rounded-lg overflow-hidden bg-white border border-neutral-100 dark:border-neutral-800">
                                             <Image
                                                 src={`/images/publications/${pub.preview}`}
                                                 alt={pub.title}
