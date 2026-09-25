@@ -18,8 +18,8 @@ title = "About"
 [[sections]]
 id = "featured_publications"
 type = "publications"
-title = "Selected Preprints and Publications"
+title = "Selected Publications"
 filter = "selected"
-limit = 6
+limit = 7
 
 # Keep the homepage free of news for now.
