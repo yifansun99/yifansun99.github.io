@@ -1,3 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="32" height="32">
-  <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-size="80">💪</text>
-</svg> 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="29" fill="#24324a"/>
+  <circle cx="32" cy="32" r="27.5" fill="none" stroke="#dca85d" stroke-width="1.5"/>
+  <path d="M17 16h8.5L32 27.5 38.5 16H47L36 35.3V48h-8V35.3L17 16Z" fill="#fff"/>
+</svg>

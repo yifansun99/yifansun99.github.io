@@ -1,7 +1,7 @@
 [site]
 title = "Yifan Sun"
 description = "CS Ph.D. student at UIUC."
-favicon = "/favicon.ico"
+favicon = "/favicon.svg"
 last_updated = "September 2026"
 
 [author]

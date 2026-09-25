@@ -65,7 +65,7 @@ export default function PublicationsList({ config, publications, embedded = fals
         const selected = publicationsOnly.filter((pub) => pub.selected);
         const remaining = publicationsOnly.filter((pub) => !pub.selected);
 
-        return [...preprints, ...selected, ...remaining];
+        return [...selected, ...remaining, ...preprints];
     }, [filteredPublications]);
 
     return (
@@ -77,7 +77,7 @@ export default function PublicationsList({ config, publications, embedded = fals
             <div className="mb-8">
                 <h1 className={`${embedded ? "text-2xl" : "text-4xl"} font-serif font-bold text-primary mb-4`}>{config.title}</h1>
                 {config.description && (
-                    <p className={`${embedded ? "text-base" : "text-lg"} text-neutral-600 dark:text-neutral-500 max-w-2xl`}>
+                    <p className={`${embedded ? "text-base" : "text-lg"} text-neutral-600 dark:text-neutral-500 lg:whitespace-nowrap`}>
                         {config.google_scholar_url && config.description.includes('Google Scholar') ? (
                             <>
                                 {config.description.split('Google Scholar')[0]}
@@ -215,10 +215,10 @@ export default function PublicationsList({ config, publications, embedded = fals
                 ) : (
                     orderedPublications.map((pub, index) => (
                         <Fragment key={pub.id}>
-                            {index === 0 && pub.type === 'preprint' && (
+                            {pub.type === 'preprint' && (index === 0 || orderedPublications[index - 1].type !== 'preprint') && (
                                 <h2 className="pt-2 font-serif text-2xl font-bold text-primary">Preprints</h2>
                             )}
-                            {pub.type !== 'preprint' && (index === 0 || orderedPublications[index - 1].type === 'preprint') && (
+                            {pub.type !== 'preprint' && index === 0 && (
                                 <h2 className="pt-4 font-serif text-2xl font-bold text-primary">Publications</h2>
                             )}
                             <motion.div
@@ -229,8 +229,8 @@ export default function PublicationsList({ config, publications, embedded = fals
                         >
                             <div className="flex flex-col md:flex-row gap-6">
                                 {pub.preview && (
-                                    <div className="w-full md:w-72 lg:w-96 flex-shrink-0">
-                                        <div className="aspect-video md:aspect-[4/3] relative rounded-lg overflow-hidden bg-white border border-neutral-100 dark:border-neutral-800">
+                                    <div className="w-full md:w-80 lg:w-[32rem] flex-shrink-0">
+                                        <div className="aspect-video lg:aspect-[16/10] relative rounded-lg overflow-hidden bg-white border border-neutral-100 dark:border-neutral-800">
                                             <Image
                                                 src={`/papers/${pub.preview}`}
                                                 alt={pub.title}
@@ -267,9 +267,14 @@ export default function PublicationsList({ config, publications, embedded = fals
                                             </span>
                                         ))}
                                     </p>
-                                    <p className="text-sm font-medium text-neutral-800 dark:text-neutral-600 mb-3">
-                                        {pub.journal || pub.conference} {pub.year}
+                                    <p className={`text-sm font-medium text-neutral-800 dark:text-neutral-600 ${pub.awards?.length ? 'mb-1' : 'mb-3'}`}>
+                                        {pub.journal || pub.conference} · {pub.year}
                                     </p>
+                                    {pub.awards?.map((award) => (
+                                        <p key={award} className="mb-3 text-sm font-semibold text-accent">
+                                            {award}
+                                        </p>
+                                    ))}
 
                                     {pub.description && (
                                         <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-4 line-clamp-3">
