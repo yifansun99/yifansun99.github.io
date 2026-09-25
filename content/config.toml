@@ -44,19 +44,7 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "Experience"
+title = "CV"
 type = "page"
-target = "experience"
-href = "/experience"
-
-[[navigation]]
-title = "Honors"
-type = "page"
-target = "awards"
-href = "/awards"
-
-[[navigation]]
-title = "Service"
-type = "page"
-target = "services"
-href = "/services"
+target = "cv"
+href = "/cv"

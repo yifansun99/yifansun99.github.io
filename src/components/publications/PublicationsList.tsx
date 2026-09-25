@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { Fragment, useState, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import Image from 'next/image';
 import {
@@ -58,6 +58,15 @@ export default function PublicationsList({ config, publications, embedded = fals
             return matchesSearch && matchesYear && matchesType;
         });
     }, [publications, searchQuery, selectedYear, selectedType]);
+
+    const orderedPublications = useMemo(() => {
+        const preprints = filteredPublications.filter((pub) => pub.type === 'preprint');
+        const publicationsOnly = filteredPublications.filter((pub) => pub.type !== 'preprint');
+        const selected = publicationsOnly.filter((pub) => pub.selected);
+        const remaining = publicationsOnly.filter((pub) => !pub.selected);
+
+        return [...preprints, ...selected, ...remaining];
+    }, [filteredPublications]);
 
     return (
         <motion.div
@@ -191,9 +200,15 @@ export default function PublicationsList({ config, publications, embedded = fals
                         {messages.publications.noResults}
                     </div>
                 ) : (
-                    filteredPublications.map((pub, index) => (
-                        <motion.div
-                            key={pub.id}
+                    orderedPublications.map((pub, index) => (
+                        <Fragment key={pub.id}>
+                            {index === 0 && pub.type === 'preprint' && (
+                                <h2 className="pt-2 font-serif text-2xl font-bold text-primary">Preprints</h2>
+                            )}
+                            {pub.type !== 'preprint' && (index === 0 || orderedPublications[index - 1].type === 'preprint') && (
+                                <h2 className="pt-4 font-serif text-2xl font-bold text-primary">Publications</h2>
+                            )}
+                            <motion.div
                             initial={{ opacity: 0, y: 20 }}
                             animate={{ opacity: 1, y: 0 }}
                             transition={{ duration: 0.4, delay: 0.1 * index }}
@@ -354,7 +369,8 @@ export default function PublicationsList({ config, publications, embedded = fals
                                     </AnimatePresence>
                                 </div>
                             </div>
-                        </motion.div>
+                            </motion.div>
+                        </Fragment>
                     ))
                 )}
             </div>
