@@ -62,10 +62,8 @@ export default function PublicationsList({ config, publications, embedded = fals
     const orderedPublications = useMemo(() => {
         const preprints = filteredPublications.filter((pub) => pub.type === 'preprint');
         const publicationsOnly = filteredPublications.filter((pub) => pub.type !== 'preprint');
-        const selected = publicationsOnly.filter((pub) => pub.selected);
-        const remaining = publicationsOnly.filter((pub) => !pub.selected);
 
-        return [...selected, ...remaining, ...preprints];
+        return [...publicationsOnly, ...preprints];
     }, [filteredPublications]);
 
     return (
