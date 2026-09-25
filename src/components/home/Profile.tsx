@@ -1,5 +1,6 @@
 'use client';
 
+import { useState } from 'react';
 import { motion } from 'framer-motion';
 import Image from 'next/image';
 import {
@@ -20,6 +21,9 @@ interface ProfileProps {
 
 export default function Profile({ author, social, researchInterests }: ProfileProps) {
   const messages = useMessages();
+  const [isPhotoHovered, setIsPhotoHovered] = useState(false);
+  const [isAlternatePhotoPinned, setIsAlternatePhotoPinned] = useState(false);
+  const showAlternatePhoto = isPhotoHovered || isAlternatePhotoPinned;
 
   const socialLinks = [
     ...(social.email ? [{
@@ -46,16 +50,32 @@ export default function Profile({ author, social, researchInterests }: ProfilePr
       transition={{ duration: 0.45 }}
       className="lg:sticky lg:top-28"
     >
-      <div className="mx-auto mb-7 aspect-[4/5] w-full max-w-[17rem] overflow-hidden rounded-[1.15rem] border border-neutral-200 bg-neutral-100 shadow-[0_18px_55px_rgba(19,41,75,0.10)] dark:border-neutral-700">
+      <button
+        type="button"
+        onClick={() => author.alternate_avatar && setIsAlternatePhotoPinned((current) => !current)}
+        onMouseEnter={() => author.alternate_avatar && setIsPhotoHovered(true)}
+        onMouseLeave={() => author.alternate_avatar && setIsPhotoHovered(false)}
+        className="relative mx-auto mb-7 block aspect-[4/5] w-full max-w-[17rem] overflow-hidden rounded-[1.15rem] border border-neutral-200 bg-neutral-100 shadow-[0_18px_55px_rgba(19,41,75,0.10)] dark:border-neutral-700"
+        aria-label={author.alternate_avatar ? 'Switch profile photo' : undefined}
+      >
         <Image
           src={author.avatar}
           alt={author.name}
           width={680}
           height={850}
-          className="h-full w-full object-cover object-[50%_62%]"
+          className={`absolute inset-0 h-full w-full object-cover object-[50%_62%] transition-opacity duration-500 ${showAlternatePhoto ? 'opacity-0' : 'opacity-100'}`}
           priority
         />
-      </div>
+        {author.alternate_avatar && (
+          <Image
+            src={author.alternate_avatar}
+            alt={`${author.name} at sunset`}
+            width={680}
+            height={850}
+            className={`absolute inset-0 h-full w-full object-cover object-[50%_55%] transition-opacity duration-500 ${showAlternatePhoto ? 'opacity-100' : 'opacity-0'}`}
+          />
+        )}
+      </button>
 
       <div className="text-center lg:text-left">
         <h1 className="mb-2 font-serif text-4xl font-semibold tracking-[-0.035em] text-primary">

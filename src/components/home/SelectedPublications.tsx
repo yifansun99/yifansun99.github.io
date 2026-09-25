@@ -69,6 +69,11 @@ export default function SelectedPublications({ publications, title, enableOnePag
                         <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-2">
                             {pub.journal || pub.conference} · {pub.year}
                         </p>
+                        {pub.awards?.map((award) => (
+                            <p key={award} className="mb-2 text-sm font-semibold text-accent">
+                                {award}
+                            </p>
+                        ))}
                         {pub.description && (
                             <p className="text-sm text-neutral-500 dark:text-neutral-500 line-clamp-2">
                                 {pub.description}

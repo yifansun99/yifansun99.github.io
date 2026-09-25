@@ -232,7 +232,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                                     <div className="w-full md:w-80 lg:w-[32rem] flex-shrink-0">
                                         <div className="aspect-video lg:aspect-[16/10] relative rounded-lg overflow-hidden bg-white border border-neutral-100 dark:border-neutral-800">
                                             <Image
-                                                src={`/papers/${pub.preview}`}
+                                                src={`/images/publications/${pub.preview}`}
                                                 alt={pub.title}
                                                 fill
                                                 className="object-contain"

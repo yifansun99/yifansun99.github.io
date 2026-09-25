@@ -8,7 +8,8 @@ last_updated = "September 2026"
 name = "Yifan Sun"
 title = "CS PhD Student"
 institution = "University of Illinois at Urbana-Champaign"
-avatar = "/bio.jpg"
+avatar = "/images/profile/primary.jpg"
+alternate_avatar = "/images/profile/alternate.jpg"
 
 [social]
 email = "yifan50@illinois.edu"

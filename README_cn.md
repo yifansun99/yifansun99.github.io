@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" alt="PRISM Logo" height="100"/>
+  <img src="./docs/images/logo.png" alt="PRISM Logo" height="100"/>
 </div>
 
 # PRISM
@@ -14,7 +14,7 @@ PRISM 专为**研究人员、开发者和学者**量身打造，只为让你能�
 
 你也可以借助编程智能体自定义属于自己的 PRISM 版本。
 
-![PRISM 预览](screenshot.png)
+![PRISM 预览](docs/images/screenshot.png)
 
 ## ✨ 核心特性
 
