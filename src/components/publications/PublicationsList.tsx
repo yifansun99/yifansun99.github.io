@@ -78,7 +78,20 @@ export default function PublicationsList({ config, publications, embedded = fals
                 <h1 className={`${embedded ? "text-2xl" : "text-4xl"} font-serif font-bold text-primary mb-4`}>{config.title}</h1>
                 {config.description && (
                     <p className={`${embedded ? "text-base" : "text-lg"} text-neutral-600 dark:text-neutral-500 max-w-2xl`}>
-                        {config.description}
+                        {config.google_scholar_url && config.description.includes('Google Scholar') ? (
+                            <>
+                                {config.description.split('Google Scholar')[0]}
+                                <a
+                                    href={config.google_scholar_url}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="font-medium text-accent hover:underline"
+                                >
+                                    Google Scholar
+                                </a>
+                                {config.description.split('Google Scholar').slice(1).join('Google Scholar')}
+                            </>
+                        ) : config.description}
                     </p>
                 )}
             </div>

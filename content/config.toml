@@ -6,14 +6,13 @@ last_updated = "September 2026"
 
 [author]
 name = "Yifan Sun"
-title = "Third-year Ph.D. student in Computer Science"
+title = "CS PhD Student"
 institution = "University of Illinois at Urbana-Champaign"
 avatar = "/bio.jpg"
 
 [social]
 email = "yifan50@illinois.edu"
 google_scholar = "https://scholar.google.com/citations?user=S3Fwr_wAAAAJ&hl=en"
-github = "https://github.com/yifansun99"
 
 [features]
 enable_likes = false
