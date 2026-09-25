@@ -1,9 +1,9 @@
 @import "tailwindcss";
 
-/* Explicitly set dark mode to use class strategy */
+/* Keep dark utilities class-scoped so system preferences can never activate them. */
 @variant dark (&:where(.dark, .dark *));
 
-/* Default to light theme colors - no system preference detection */
+/* The site intentionally uses a single light color scheme. */
 :root,
 .light {
   /* Light theme colors */
@@ -133,38 +133,6 @@ html:lang(zh),
 html[data-locale^="zh"] {
   --font-serif: "Source Han Serif SC", "Source Han Serif CN", "Noto Serif CJK SC", "Noto Serif SC", "Songti SC", STSong, SimSun, serif;
 }
-
-/* Dark mode styles */
-.dark {
-  --background: #0f172a;
-  --foreground: #f8fafc;
-  
-  /* Adjust colors for dark mode */
-  --primary: #f8fafc;
-  --primary-light: #e2e8f0;
-  --primary-dark: #cbd5e1;
-  --accent: #e4b976;
-  --accent-light: #f0c674;
-  --accent-dark: #d4a562;
-  
-  /* Dark mode glass effect */
-  --glass-bg: rgba(15, 23, 42, 0.8);
-  --glass-border: rgba(255, 255, 255, 0.1);
-  --glass-shadow: rgba(0, 0, 0, 0.5);
-  
-  /* Neutral colors for dark mode - properly inverted */
-  --neutral-50: #0f172a;
-  --neutral-100: #1e293b;
-  --neutral-200: #334155;
-  --neutral-300: #475569;
-  --neutral-400: #64748b;
-  --neutral-500: #94a3b8;
-  --neutral-600: #cbd5e1;
-  --neutral-700: #e2e8f0;
-  --neutral-800: #1e293b;
-  --neutral-900: #0f172a;
-}
-
 
 body {
   background: var(--background);
