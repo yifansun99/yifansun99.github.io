@@ -21,9 +21,7 @@ interface ProfileProps {
 
 export default function Profile({ author, social, researchInterests }: ProfileProps) {
   const messages = useMessages();
-  const [isPhotoHovered, setIsPhotoHovered] = useState(false);
-  const [isAlternatePhotoPinned, setIsAlternatePhotoPinned] = useState(false);
-  const showAlternatePhoto = isPhotoHovered || isAlternatePhotoPinned;
+  const [showAlternatePhoto, setShowAlternatePhoto] = useState(false);
 
   const socialLinks = [
     ...(social.email ? [{
@@ -52,9 +50,7 @@ export default function Profile({ author, social, researchInterests }: ProfilePr
     >
       <button
         type="button"
-        onClick={() => author.alternate_avatar && setIsAlternatePhotoPinned((current) => !current)}
-        onMouseEnter={() => author.alternate_avatar && setIsPhotoHovered(true)}
-        onMouseLeave={() => author.alternate_avatar && setIsPhotoHovered(false)}
+        onClick={() => author.alternate_avatar && setShowAlternatePhoto((current) => !current)}
         className="relative mx-auto mb-7 block aspect-[4/5] w-full max-w-[17rem] overflow-hidden rounded-[1.15rem] border border-neutral-200 bg-neutral-100 shadow-[0_18px_55px_rgba(19,41,75,0.10)] dark:border-neutral-700"
         aria-label={author.alternate_avatar ? 'Switch profile photo' : undefined}
       >
