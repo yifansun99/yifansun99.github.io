@@ -160,9 +160,8 @@ export default function Navigation({
       {({ open }) => (
         <>
           <motion.div
-            initial={{ y: -100 }}
+            initial={false}
             animate={{ y: 0 }}
-            transition={{ duration: 0.6 }}
             className={cn(
               'transition-all duration-300 ease-out',
               scrolled

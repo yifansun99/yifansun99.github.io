@@ -17,9 +17,8 @@ export default function SelectedPublications({ publications, title, enableOnePag
 
     return (
         <motion.section
-            initial={{ opacity: 0, y: 20 }}
+            initial={false}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6, delay: 0.4 }}
         >
             <div className="flex items-center justify-between mb-4">
                 <h2 className="text-2xl font-serif font-bold text-primary">{resolvedTitle}</h2>
@@ -31,12 +30,11 @@ export default function SelectedPublications({ publications, title, enableOnePag
                 </a>
             </div>
             <div className="space-y-4">
-                {publications.map((pub, index) => (
+                {publications.map((pub) => (
                     <motion.div
                         key={pub.id}
-                        initial={{ opacity: 0, y: 20 }}
+                        initial={false}
                         animate={{ opacity: 1, y: 0 }}
-                        transition={{ duration: 0.4, delay: 0.1 * index }}
                         className="rounded-xl border border-neutral-200 bg-white p-5 transition-colors duration-200 hover:border-accent/40 dark:border-[rgba(148,163,184,0.24)] dark:bg-neutral-900"
                     >
                         <h3 className="font-semibold text-primary mb-2 leading-tight">

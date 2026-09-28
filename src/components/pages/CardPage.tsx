@@ -33,9 +33,8 @@ const markdownComponents = {
 export default function CardPage({ config, embedded = false }: { config: CardPageConfig; embedded?: boolean }) {
     return (
         <motion.div
-            initial={{ opacity: 0, y: 20 }}
+            initial={false}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6, delay: 0.4 }}
         >
             <div className={embedded ? "mb-4" : "mb-8"}>
                 <h1 className={`${embedded ? "text-2xl" : "text-4xl"} font-serif font-bold text-primary mb-4`}>{config.title}</h1>
@@ -57,9 +56,8 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                             </h2>
                         )}
                         <motion.div
-                            initial={{ opacity: 0, y: 20 }}
+                            initial={false}
                             animate={{ opacity: 1, y: 0 }}
-                            transition={{ duration: 0.4, delay: 0.1 * index }}
                             className={`bg-white dark:bg-neutral-900 ${embedded ? "p-4" : "p-6"} rounded-xl border border-neutral-200 dark:border-neutral-800 transition-colors duration-200 hover:border-accent/35`}
                         >
                             <div className="flex justify-between items-start mb-2">
