@@ -286,7 +286,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 rel="noopener noreferrer"
                                                 className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-accent text-white hover:bg-accent-dark transition-colors"
                                             >
-                                                {pub.arxivId ? 'arXiv' : 'Paper'} ↗
+                                                Paper ↗
                                             </a>
                                         )}
                                         {pub.doi && (
