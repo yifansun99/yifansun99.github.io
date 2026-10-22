@@ -77,7 +77,7 @@ export default function SelectedPublications({ publications, title, enableOnePag
                         )}
                         <div className="mt-3 flex flex-wrap gap-x-4 gap-y-2">
                             {[
-                                { href: pub.url, label: pub.arxivId ? 'arXiv' : 'Read paper' },
+                                { href: pub.url, label: 'Read paper' },
                                 { href: pub.website, label: 'Website' },
                                 { href: pub.code, label: 'GitHub' },
                                 { href: pub.huggingFace, label: 'Hugging Face' },
