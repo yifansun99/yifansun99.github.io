@@ -286,7 +286,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 rel="noopener noreferrer"
                                                 className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-accent text-white hover:bg-accent-dark transition-colors"
                                             >
-                                                Paper ↗
+                                                {pub.arxivId ? 'arXiv' : 'Paper'} ↗
                                             </a>
                                         )}
                                         {pub.doi && (
@@ -299,6 +299,16 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 DOI
                                             </a>
                                         )}
+                                        {pub.website && (
+                                            <a
+                                                href={pub.website}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300 hover:bg-accent hover:text-white transition-colors"
+                                            >
+                                                Website ↗
+                                            </a>
+                                        )}
                                         {pub.code && (
                                             <a
                                                 href={pub.code}
@@ -306,7 +316,17 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 rel="noopener noreferrer"
                                                 className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300 hover:bg-accent hover:text-white transition-colors"
                                             >
-                                                {messages.publications.code}
+                                                {pub.code.startsWith('https://github.com/') ? 'GitHub' : messages.publications.code}
+                                            </a>
+                                        )}
+                                        {pub.huggingFace && (
+                                            <a
+                                                href={pub.huggingFace}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300 hover:bg-accent hover:text-white transition-colors"
+                                            >
+                                                <span aria-hidden="true" className="mr-1">🤗</span> Hugging Face
                                             </a>
                                         )}
                                         {pub.abstract && (
