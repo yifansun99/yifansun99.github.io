@@ -204,6 +204,9 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       doi: tags.doi,
       url: tags.url,
       code: tags.code,
+      arxivId: tags.eprint,
+      website: tags.website,
+      huggingFace: tags.huggingface,
       abstract: cleanBibTeXString(tags.abstract),
       description: cleanBibTeXString(tags.description || tags.note),
       awards: tags.award ? [cleanBibTeXString(tags.award)].filter((award): award is string => Boolean(award)) : undefined,
@@ -211,7 +214,7 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       preview,
 
       // Store original BibTeX (excluding custom fields)
-      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'award']),
+      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'website', 'huggingface', 'award']),
     };
 
     // Clean up undefined fields
