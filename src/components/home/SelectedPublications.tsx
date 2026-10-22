@@ -75,16 +75,24 @@ export default function SelectedPublications({ publications, title, enableOnePag
                                 {pub.description}
                             </p>
                         )}
-                        {pub.url && (
-                            <a
-                                href={pub.url}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="mt-3 inline-block text-xs font-semibold uppercase tracking-[0.08em] text-accent hover:text-accent-dark"
-                            >
-                                Read paper ↗
-                            </a>
-                        )}
+                        <div className="mt-3 flex flex-wrap gap-x-4 gap-y-2">
+                            {[
+                                { href: pub.url, label: pub.arxivId ? 'arXiv' : 'Read paper' },
+                                { href: pub.website, label: 'Website' },
+                                { href: pub.code, label: 'GitHub' },
+                                { href: pub.huggingFace, label: 'Hugging Face' },
+                            ].filter((link) => link.href).map((link) => (
+                                <a
+                                    key={link.label}
+                                    href={link.href}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="text-xs font-semibold uppercase tracking-[0.08em] text-accent hover:text-accent-dark"
+                                >
+                                    {link.label} ↗
+                                </a>
+                            ))}
+                        </div>
                     </motion.div>
                 ))}
             </div>
